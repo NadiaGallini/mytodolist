@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-lg">
-    <h5>Help</h5>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia itaque ab reprehenderit error quo assumenda. Quod, impedit. Non veniam neque fugit possimus tenetur sequi id at. Similique, explicabo! Aperiam, sunt!</p>
+    <h5>Помощь</h5>
+    <p>Помоги себе сам</p>
   </q-page>
 </template>
 
